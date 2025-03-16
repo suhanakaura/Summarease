@@ -39,8 +39,8 @@ const CreatePageDropDown = ({data, handleChange, form, setForm}) => {
               ))
             
             }
-
             </div>
+          
           )}
       </div>
     );
